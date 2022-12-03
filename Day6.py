@@ -28,5 +28,9 @@ tuple1 = ("hello", "how" , "you", True , 1.32, complex(3,6))
 print(tuple1)
 
 #Dictionaries in python used to store data values in key:value pairs.
-dict = {'name':'Ishaan','Age':'20','Marks':'500/1000'}
+dict = {'name':'Ishaan','Age':'20','Marks':'500/1000','born year':2000}
 print(dict)
+print(dict['name'])
+print(dict['born year'])
+print(len(dict))
+print(type(dict))
