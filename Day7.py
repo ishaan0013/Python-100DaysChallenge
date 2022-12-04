@@ -11,8 +11,10 @@ elif val==2:
     print(a-b)
 elif val==3:
     print(a/b)
-else:
+elif val==4:
     print(a*b)
+else:
+    print("please enter valid number")
 
 
     
