@@ -1,10 +1,10 @@
 # This is a comment linr
-# these line are not executed by the compiler
+# these line are not executed by the interpreter
 '''we can also use triple single or double quotes for comments'''
 
 
 print('hello')
-# we can not use single quotes(or double quotes) inside a print statement because the compiler will not get it.
+# we can not use single quotes(or double quotes) inside a print statement because the interpreter will not get it.
 # so for it we use 'escape sequence character'
 print('hello\'Ishaan\'')
 
