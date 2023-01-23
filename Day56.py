@@ -1,0 +1,18 @@
+# Input Format
+# The first line contains the space separated values of 'x' and 'k'.
+# The second line contains the polynomial 'P'.
+
+
+# Output Format
+# Print True if P(x)=k. Otherwise, print False.
+
+
+inp=list(map(int,input().split(" ")))
+val_x=inp[0]
+ans=inp[1]
+eqn=input()
+new_eq=eqn.replace("x",str(val_x))
+if(ans==eval(new_eq)):
+    print(True)
+else:
+    print(False)
