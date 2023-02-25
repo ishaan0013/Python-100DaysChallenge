@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Surprising 'forbidden planet' discovered outside our solar system - CNN",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-1157404513:1677243123655333&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiT2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yNC93b3JsZC9mb3JiaWRkZW4tcGxhbmV0LXNtYWxsLXN0YXItc2NuL2luZGV4Lmh0bWzSAVNodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAyLzI0L3dvcmxkL2ZvcmJpZGRlbi1wbGFuZXQtc21hbGwtc3Rhci1zY24vaW5kZXguaHRtbA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHdStzJ8zeAiRJLKSg5UgQp6PSBlFTZZPX_CPzxEQUQdeblBn8cW7N8Jp3ASiGVNsu4YregwZw",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T12:07:00Z",
+            "content": "Not your computer? Use Private Browsing windows to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "China pushes for ceasefire in Ukraine war - Financial Times",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-737506641:1677243097849232&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50Lzc5YWI1NWE3LTllMzMtNDQ4ZS05NDk5LTYxMWU5Y2FlYWJkMdIBAA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHc2YEtsPbFn0FFnkFRy6tkCsz5U7K1U5ezEBy5m82QnxrYqfQNPLQJxHQPluCOCjvyCevbdqA",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T11:46:59Z",
+            "content": "Not your computer? Use a private browsing window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "YouTube is testing a '1080p Premium' playback option | Engadget - Engadget",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S654515928:1677243098929184&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiVWh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS95b3V0dWJlLXRlc3RpbmctMTA4MHAtcHJlbWl1bS1wbGF5YmFjay1vcHRpb24tMTEyODM1MTc0Lmh0bWzSAVlodHRwczovL3d3dy5lbmdhZGdldC5jb20vYW1wL3lvdXR1YmUtdGVzdGluZy0xMDgwcC1wcmVtaXVtLXBsYXliYWNrLW9wdGlvbi0xMTI4MzUxNzQuaHRtbA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHdaRmik_Dae41HRFaUh9x-wFMSQ1us84nlrP7H-yDK8JUb2IEBb6GpUJqvFwdLTszQuHqaC0Q",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T11:30:32Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Biden faces political threat with East Palestine train derailment - The Hill",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-1257360578:1677243098005682&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMia2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzg3MTc5OS13aGl0ZS1ob3VzZS1haW1zLXRvLXdhcmQtb2ZmLXBvbGl0aWNhbC1mYWxsb3V0LW9mLW9oaW8tdHJhaW4tZGlzYXN0ZXIv0gFvaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy8zODcxNzk5LXdoaXRlLWhvdXNlLWFpbXMtdG8td2FyZC1vZmYtcG9saXRpY2FsLWZhbGxvdXQtb2Ytb2hpby10cmFpbi1kaXNhc3Rlci9hbXAv%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHf2t1HEMq8iaVy6t0Tdx-UUMhIYJstifBCOfyA7trV6GwF36efrtgRTi0yyFRgRQoJipZnE",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T11:00:00Z",
+            "content": "Not your computer? Use Guest mode to sign in privately. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Putin\u2019s wartime bluster obscures Russia\u2019s precarious future - The Hill",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-771341817:1677243098018398&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiX2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzg3MTM2Mi1wdXRpbnMtd2FydGltZS1ibHVzdGVyLW9ic2N1cmVzLXJ1c3NpYXMtcHJlY2FyaW91cy1mdXR1cmUv0gFjaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy8zODcxMzYyLXB1dGlucy13YXJ0aW1lLWJsdXN0ZXItb2JzY3VyZXMtcnVzc2lhcy1wcmVjYXJpb3VzLWZ1dHVyZS9hbXAv%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHe2tm2RqBhGjDfjy8MGVNDM4Lu5ncdN0NJXeePkYSTyWix_zQfXIJsQlqXvCCASqXMpQVG4",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T11:00:00Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "U.S. billionaire financier Thomas Lee dies at 78, family says - CNBC",
+            "description": "American billionaire financier Thomas H. Lee, considered a pioneer of private equity investment and leveraged buyouts, died at the age of 78.",
+            "url": "https://www.cnbc.com/2023/02/24/us-billionaire-financier-thomas-lee-dies-at-78-family-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107199403-1677235472741-gettyimages-94849846-pdir0701SHi_j0150JPG.jpeg?v=1677235792&w=1920&h=1080",
+            "publishedAt": "2023-02-24T10:49:52Z",
+            "content": "American billionaire financier Thomas H. Lee, considered a pioneer of private equity investment and leveraged buyouts, died at the age of 78, his family said in a statement on Thursday, without notin\u2026 [+1825 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Biden announces sweeping new sanctions against Russia one year into Ukraine war - USA TODAY",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-1123282974:1677243098093267&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMifGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDIvMjQvd2FyLXVrcmFpbmUtYmlkZW4tYW5ub3VuY2UtbmV3LXNhbmN0aW9ucy1hZ2FpbnN0LXJ1c3NpYS8xMTMzMzA2MzAwMi_SAQA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHcu52Y0n3ULsHrGQ1-1aV_RApG1U6pbzhhaW2jqOaMxE1e7EwuWCbiFFWspiBZoaFhUtb7z",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T10:00:37Z",
+            "content": "Not your computer? Use Guest mode to sign in privately. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Stocks limp toward biggest weekly fall of the year - Reuters.com",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S654515928:1677236783574690&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiR2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZ2xvYmFsLW1hcmtldHMtd3JhcHVwLTEtcGl4LTIwMjMtMDItMjQv0gEA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHe_ILgytGFEstd_PqxylHQP-1hVXPBd0oeeoZMKYrlLroCyx2SlkGwVHj2df5KNRaj3YqjozA",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T09:58:00Z",
+            "content": "Not your computer? Use Guest mode to sign in privately. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Another smartphone supports satellite connectivity, as mobile space race heats up - CNBC",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-653534965:1677235960252899&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMjQvYnVsbGl0dC1sYXVuY2hlcy1zYXRlbGxpdGUtc21hcnRwaG9uZXMtYXMtbW9iaWxlLXNwYWNlLXJhY2UtaGVhdHMtdXAuaHRtbNIBbWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIzLzAyLzI0L2J1bGxpdHQtbGF1bmNoZXMtc2F0ZWxsaXRlLXNtYXJ0cGhvbmVzLWFzLW1vYmlsZS1zcGFjZS1yYWNlLWhlYXRzLXVwLmh0bWw%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHd43JFz8tD33Bo5HSY-YsilkMozAxdM__s5QLXTHfNDwrEL3_T883hKbj61dAA-1_dIZAnu",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T09:48:09Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "US News Live : Winter Storm In North And Heat Wave In South Creates 100 \u00b0 Difference | World News - TIMES NOW",
+            "description": "US Weather News Live : A powerful winter storm set record low temperatures in the northern Plains of the US, while a heat wave in the Southeast set record hi...",
+            "url": "https://www.youtube.com/watch?v=ePEDWQHjm_Y",
+            "urlToImage": "https://i.ytimg.com/vi/ePEDWQHjm_Y/maxresdefault_live.jpg",
+            "publishedAt": "2023-02-24T09:41:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Russia Launches \u201cRescue\u201d Soyuz Spacecraft to the Space Station - SciTechDaily",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S654515928:1677235960778536&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiVmh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS9ydXNzaWEtbGF1bmNoZXMtcmVzY3VlLXNveXV6LXNwYWNlY3JhZnQtdG8tdGhlLXNwYWNlLXN0YXRpb24v0gEA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHeU6ZgCVC8nK6XotVqNzggTsRfUk0Zklet2khkgz1Lm9zlKP4LL8p9XTPYyfBbQVYIl6Z9TRA",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T09:22:59Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA"
+            },
+            "author": "Haley Yamada",
+            "title": "2 million air fryers recalled due to fire and burn hazards - GMA",
+            "description": "",
+            "url": "https://www.goodmorningamerica.com/news/story/2-million-air-fryers-recalled-due-fire-burn-97428709",
+            "urlToImage": "https://s.abcnews.com/images/GMA/Cosori-ht-er-230223_1677188072157_hpMain_16x9_608.jpg",
+            "publishedAt": "2023-02-24T09:22:30Z",
+            "content": "Two million Cosori Air Fryers have been recalled due to fire and burn hazards, the U.S. Consumer Product Safety and Commission announced in a press release Thursday.\r\nAbout 250,000 air fryers in Cana\u2026 [+1446 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Soccer fan attacks goalie during match: 'Never saw anything like it' - New York Post ",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-1978982305:1677243099750427&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiVWh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzAyLzI0L3NvY2Nlci1mYW4tcHVuY2hlcy1zZXZpbGxhcy1nb2Fsa2VlcGVyLW1hcmtvLWRtaXRyb3ZpYy_SAVlodHRwczovL255cG9zdC5jb20vMjAyMy8wMi8yNC9zb2NjZXItZmFuLXB1bmNoZXMtc2V2aWxsYXMtZ29hbGtlZXBlci1tYXJrby1kbWl0cm92aWMvYW1wLw%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHfM9xjPf90dfaT_Ikq3Mcvx_uiXcuGSaFILd3LkPRA0t57L4k2eecGZm4OoADPaCF-LDPFGQQ",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T09:03:00Z",
+            "content": "Not your computer? Use Private Browsing windows to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Flu experts gather with H5N1 risk on the agenda - Reuters.com",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S1393464105:1677236799412274&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL2ZsdS1leHBlcnRzLWdhdGhlci13aXRoLWg1bjEtcmlzay1hZ2VuZGEtMjAyMy0wMi0yNC_SAQA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHd0XsGfNGjQaLQh_8XGtFUDlPE_sPg7xfpeb_5nc9m8oE3LPKwkJeBvMJts-8wJmqZ9B4D3Eg",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T08:55:00Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Countries that abstained from voting on U.N. Ukraine resolution: list - The Washington Post",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-653534965:1677229550826592&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiVWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDIzLzAyLzI0L3VuLXVrcmFpbmUtcmVzb2x1dGlvbi12b3RlLWNvdW50cmllcy_SAQA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHdyxG7nfBgzTXiwQaaKf0KkNSOhcylWYGgvGbJ0mpoq82YigQPrPTQcmsnfrLiLMB33-veCGw",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T08:28:54Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "\u2018It\u2019s Complicated\u2019: How Biden and Zelensky Forged a Wartime Partnership - The New York Times",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-2045870536:1677235959107092&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDIvMjQvdXMvcG9saXRpY3MvYmlkZW4temVsZW5za3ktdWtyYWluZS1ydXNzaWEuaHRtbNIBVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDIvMjQvdXMvcG9saXRpY3MvYmlkZW4temVsZW5za3ktdWtyYWluZS1ydXNzaWEuYW1wLmh0bWw%3Foc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&amp%3Bgae=cb-&hl=en-US&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHfGJg3BkYnZahkfMDsVonvGZus00bK0E1gJzL4z4mWl7rblk2K8flS1IqOnOiA8npclkNjW",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T08:00:18Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Florida death row inmate Donald Dillbeck uses last words to trash Gov. Ron DeSantis - Fox News",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S1829307483:1677235959104713&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiX2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL2Zsb3JpZGEtZGVhdGgtcm93LWlubWF0ZS1kb25hbGQtZGlsbGJlY2stbGFzdC13b3Jkcy1nb3Ytcm9uLWRlc2FudGlz0gFjaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vdXMvZmxvcmlkYS1kZWF0aC1yb3ctaW5tYXRlLWRvbmFsZC1kaWxsYmVjay1sYXN0LXdvcmRzLWdvdi1yb24tZGVzYW50aXMuYW1w%3Foc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&amp%3Bgae=cb-&hl=en-US&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHeY9i-MdhvyUD1NtnqmOD_2ZT-tswZX1DaVSV-PcB6h4LSkw6ndrffy0mYx7gDjhfNfgXQq",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T07:52:00Z",
+            "content": "Not your computer? Use Guest mode to sign in privately. Learn more"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Travis Caldwell",
+            "title": "Alex Murdaugh faces second day of cross-examination Friday in trial over 2021 killings of his wife and son - CNN",
+            "description": "Disgraced former lawyer Alex Murdaugh is expected to face a second day of cross-examination in a South Carolina courtroom Friday morning, after telling prosecutors he previously lied about not being at the scene of his wife's and son's deaths before they were\u2026",
+            "url": "https://www.cnn.com/2023/02/24/us/alex-murdaugh-murder-trial-friday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230223145752-11-murdaugh-trial-0223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-24T07:28:00Z",
+            "content": "Disgraced former lawyer Alex Murdaugh is expected to face a second day of cross-examination in a South Carolina courtroom Friday morning, after telling prosecutors he previously lied about not being \u2026 [+4516 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "One year of war in Ukraine: Ali Velshi on the latest in Kyiv - MSNBC",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S604077471:1677243097860689&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCCAiC1JIWks0LXBJaUVrmAEB%3Foc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHf2vOfpxd6VjGUm2O2-LlweHr69hEOHKxrlrKs-Ne8QtPlip6s8_oEV7PeOHhrCPBi6S0wyCg",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T07:00:07Z",
+            "content": "Not your computer? Use InPrivate windows to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Ex-producer Harvey Weinstein sentenced to 16 years on L.A. rape conviction - Reuters.com",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S503538143:1677228690671461&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL2V4LXByb2R1Y2VyLWhhcnZleS13ZWluc3RlaW4tZmFjZXMtc2VudGVuY2luZy1sb3MtYW5nZWxlcy1yYXBlLWNvbnZpY3Rpb24tMjAyMy0wMi0yMy_SAQA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHc9_3Un2i-KccGa1nPzVu7AxPScHlbiplGfB0zC6QzwHqFY6KBmyu2m4Ym9pzmDk91LmTEQMQ",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T06:58:00Z",
+            "content": "Not your computer? Use Guest mode to sign in privately. Learn more"
+        }
+    ]
+}
